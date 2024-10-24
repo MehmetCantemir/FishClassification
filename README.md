@@ -29,3 +29,6 @@ The model was trained with the Adam optimization algorithm and lasted for 20 epo
 The training result was successful at the desired level. 92% accuracy and 22% loss value were obtained.
 
 ![image](https://github.com/user-attachments/assets/69268569-c40f-42d2-bbbf-852d0ec44cf8)
+
+The project was developed on Kaggle.<br>
+Kaggle notebook link:  https://www.kaggle.com/code/mehmetcantemir1/deep-learning-bootcamp-project/edit
